@@ -1,0 +1,2 @@
+# Vosy
+Simple voting system
